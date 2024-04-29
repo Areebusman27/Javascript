@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    max-width: 600px;
+    margin: 0px auto;
+  }
+  
+  .box {
+    height: 90px;
+    width: 90px;
+    border-radius: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    font-size: 40px;
+    cursor: pointer;
+  }
+  .box:hover {
+    background-color:black;
+    color: white;
+  }
+  
+  .info_box {
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 10px;
+  }
+  
+
+
+  .main_box{
+    background-color: gold;
+    height: 600px;
+    width: 800px;
+    border-color: black;
+
+  }
+
+  img{
+    height: 90px;
+    width: 90px;
+    border-radius: 10px;
+    
+  }
+  h2{
+    margin:5px;
+  }
