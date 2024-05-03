@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 400px;
+    width:auto;
+    background-color: goldenrod;
+    border-radius: 200px;
+    border-color: black;
+}
+.Countdown{
+    font-size: larger;
+    font-weight: bold;
+}
