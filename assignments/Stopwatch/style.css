@@ -1,0 +1,22 @@
+.wrapper{
+    height: 300px;
+    width: 500px;
+    border-radius: 20px;
+    border-color: black;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+#button-start{
+    background-color: aquamarine;
+}
+#button-stop{
+    background-color: brown;
+}
+#button-reset{
+    background-color: rgb(113, 113, 151);
+}

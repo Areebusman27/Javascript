@@ -1,0 +1,23 @@
+/* body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column  ;
+} */
+.container{
+    height: 500px;
+    width: 500px;
+    background-color: goldenrod;
+    border-color: black;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column  ;
+}
+
+button{
+    color: aqua;
+    background-color: brown;
+}
+
