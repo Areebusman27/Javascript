@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: #e9ebf0;
+}
+
+button{
+    color:#2A3132;
+    background-color:#CADCFC;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+}
